@@ -4,7 +4,7 @@ Welcome to _Qubacy_, which stands for Quality-Based Cyberspace. In short, this a
 
 ### Our skills:
 
-[![Java](./assets/badges/java.svg)]() [![Go](./assets/badges/go.svg)]() [![Kotlin](./assets/badges/kotlin.svg)]() [![Flutter](./assets/badges/flutter.svg)] [![Cpp](./assets/badges/cpp.svg)]() [![Qt](./assets/badges/qt.svg)]() [![HTML5](./assets/badges/html5.svg)]() [![CSS3](./assets/badges/css3.svg)]() [![JavaScript](./assets/badges/js.svg)]() 
+[![Java](./assets/badges/java.svg)]() [![Go](./assets/badges/go.svg)]() [![Kotlin](./assets/badges/kotlin.svg)]() [![Flutter](./assets/badges/flutter.svg)]() [![Cpp](./assets/badges/cpp.svg)]() [![Qt](./assets/badges/qt.svg)]() [![HTML5](./assets/badges/html5.svg)]() [![CSS3](./assets/badges/css3.svg)]() [![JavaScript](./assets/badges/js.svg)]() 
 
 ### Some facts:
 - We're currently working on a social-oriented app :couple: (part-time)
